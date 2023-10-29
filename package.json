@@ -1,0 +1,24 @@
+{
+  "name": "sem-project-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjpedersen/sem-project-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjpedersen/sem-project-3/issues"
+  },
+  "homepage": "https://github.com/pjpedersen/sem-project-3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
+}
